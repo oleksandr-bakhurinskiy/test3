@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="wMWWGvyOPMMLc" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:lom="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+	<metadata>
+		<schema>ADL SCORM</schema>
+		<schemaversion>1.2</schemaversion>
+		<lom:lom>
+			<lom:general>
+				<lom:title>
+					<lom:langstring>Мандрівка Різдвом Європи 3</lom:langstring>
+				</lom:title>
+			</lom:general>
+			<lom:educational>
+				<lom:typicallearningtime>
+				<lom:datetime>01:00:00</lom:datetime>
+				</lom:typicallearningtime>
+			</lom:educational>
+		</lom:lom>
+	</metadata>
+	<organizations default="wMWWGvyOPMMLc_organization">
+		<organization identifier="wMWWGvyOPMMLc_organization">
+
+			<title>Мандрівка Різдвом Європи 3</title>
+			<item identifier="A9BC6EC1-6C2D-4DBC-997A-116ED44D6BA9" identifierref="resource">
+				<title>Мандрівка Різдвом Європи 2</title>
+			</item>
+		</organization>
+	</organizations>
+	<resources>
+		<resource identifier="resource" type="webcontent" adlcp:scormtype="sco" href="res/index.html">
+			<file href="res/data/apple-touch-icon.png"/>
+<file href="res/data/audios/snd-7533128571c8a610b31c9b52140064cf4d022cbe.mp3"/>
+<file href="res/data/audios/snd-80dd7c190524501dac7b7c407ed0d8eeb30abb27.mp3"/>
+<file href="res/data/audios/snd-c6ebe293029ac6a8a15874c006f1bd018c44f59f.mp3"/>
+<file href="res/data/browsersupport.js"/>
+<file href="res/data/favicon.ico"/>
+<file href="res/data/fonts/fnt0.woff"/>
+<file href="res/data/fonts/fnt1.woff"/>
+<file href="res/data/fonts/fnt2.woff"/>
+<file href="res/data/fonts/fnt3.woff"/>
+<file href="res/data/fonts/fnt4.woff"/>
+<file href="res/data/goodbye.html"/>
+<file href="res/data/html5-unsupported.html"/>
+<file href="res/data/html5.png"/>
+<file href="res/data/images/img-1811a2cf1391fa90569d9c051dc6c0d2b68c8954.jpg"/>
+<file href="res/data/images/img-3121fc012f483d59d0b3b6eab3ac70a1d35967d0.jpg"/>
+<file href="res/data/images/img-40920aabcd9ae87141a04238cf935cbad01a8e00.jpg"/>
+<file href="res/data/images/img-743181ab6204b3984fb2781adffe830b0d05ffd1.jpg"/>
+<file href="res/data/images/img-8735fc385dc9b1d9da8748c7991955c12f06e9f5.jpg"/>
+<file href="res/data/images/img-91dc50b603dae6f879e1878e1d6e51caeb4fa0af.png"/>
+<file href="res/data/images/img-9d984e94ad1e86c2c0912ff465bbca82171f9e64.jpg"/>
+<file href="res/data/images/img-9e77875ce2f3d6bc903a64511d9a2243bbf7f1d6.jpg"/>
+<file href="res/data/images/img-ab0e820b349ab179185b77e477b79122d566e83a.jpg"/>
+<file href="res/data/images/img-b6cdc66d73ac7d805e553531d48d8819ba4b195d.jpg"/>
+<file href="res/data/images/img-cb020f38d46a3497fb07ab1c443006f00fd3e99c.jpg"/>
+<file href="res/data/images/img-dd1a255e5f81ee1534ae153fdd5b3352fa0a4e0f.jpg"/>
+<file href="res/data/lms.js"/>
+<file href="res/data/player.js"/>
+<file href="res/index.html"/>
+
+		</resource>
+	</resources>
+</manifest>
